@@ -56,10 +56,9 @@ Kontribusi terbuka untuk perbaikan bug, peningkatan fitur, dan pengajuan pull re
 
 Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
 
-## Kontak
+## demo
 
-Jika Anda memiliki pertanyaan, saran, atau ingin berkontribusi pada proyek ini, silakan hubungi saya melalui email example@example.com.
+![WhatsApp Image 2023-07-10 at 22 49 14](https://github.com/riyantama22/API_Data_pesantren_di_indonesia/assets/127660762/faba7e47-7ae7-493b-9aa8-0a97c47a76f3)
 
----
+![WhatsApp Image 2023-07-10 at 22 49 37](https://github.com/riyantama22/API_Data_pesantren_di_indonesia/assets/127660762/b889dead-d539-4968-bd66-afecf6702f20)
 
-Silakan sesuaikan README.md dengan informasi dan detail yang sesuai dengan proyek Anda.
